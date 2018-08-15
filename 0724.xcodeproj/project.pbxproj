@@ -12,6 +12,7 @@
 		03071B1E210774D80030CA71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03071B1C210774D80030CA71 /* Main.storyboard */; };
 		03071B20210774E00030CA71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03071B1F210774E00030CA71 /* Assets.xcassets */; };
 		03071B23210774E00030CA71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03071B21210774E00030CA71 /* LaunchScreen.storyboard */; };
+		030BE2A22109DBC0001690C2 /* CookieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030BE2A12109DBC0001690C2 /* CookieTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		03071B1F210774E00030CA71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03071B22210774E00030CA71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03071B24210774E00030CA71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030BE2A12109DBC0001690C2 /* CookieTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookieTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				03071B18210774D80030CA71 /* AppDelegate.swift */,
 				03071B1A210774D80030CA71 /* ViewController.swift */,
 				03071B1C210774D80030CA71 /* Main.storyboard */,
+				030BE2A12109DBC0001690C2 /* CookieTableViewController.swift */,
 				03071B1F210774E00030CA71 /* Assets.xcassets */,
 				03071B21210774E00030CA71 /* LaunchScreen.storyboard */,
 				03071B24210774E00030CA71 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03071B1B210774D80030CA71 /* ViewController.swift in Sources */,
+				030BE2A22109DBC0001690C2 /* CookieTableViewController.swift in Sources */,
 				03071B19210774D80030CA71 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
